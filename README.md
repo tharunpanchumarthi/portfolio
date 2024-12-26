@@ -1,55 +1,86 @@
-# Data Scientist
+# Cloud Engineer
+### Email: tharunsaip1999@gmail.com
+### Mobile: (940) 843-6811
+### LinkedIn: (https://www.linkedin.com/in/tharun-sai-panchumarthi-13824b227/)
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
+# PROFESSIONAL SUMMARY:
+With extensive experience in cloud infrastructure management, I specialize in building secure environments within VPCs, automating cloud operations, and maintaining compliance with security standards. My responsibilities include disaster recovery planning, cost optimization, and monitoring system health. I collaborate with development teams for updates, manage backups, and perform cloud platform upgrades. My work also focuses on optimizing resource utilization, managing cloud lifecycle tasks, and ensuring efficient billing strategies
+
+# Technical Skills: 
+
+- **Cloud Environments :	Amazon Web Services (AWS)**
+- **Configuration Management Tools :	Terraform, Ansible, Chef**
+- **Containerization Tools :	Kubernetes, Docker, OpenShift, Elastic Kubernetes Services (EKS)**
+- **Virtualization:	Windows Hyper-V, Virtual Box, VMware**
+- **Operating Systems :	Linux (Red Hat), Unix, Ubuntu, Windows**
+- **Database:	MongoDB, MySQL, PostgreSQL, Amazon Aurora, DynamoDB, Cassandra**
+- **Scripting languages :	Python, JavaScript, Ruby, Bash shell, Power shell, JSON, groovy**
+- **Build tools : Maven, Gradle, ANT**
+- **Version Control Tools	: GIT, Bitbucket, SVN, GITLAB, GITHUB**
+- **Log and Monitoring Tools : Splunk, Nagios, CloudWatch, ELK, New Relic, Dynatrace**
+
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+-	Master of Science in Advanced Data Analytics – University of North Texas – Denton, Texas.
+-	Bachelors in computer science – Sir C R Reddy College
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Senior Assistant Service Delivery Coordinator (AWS Cloud Ops Engineer) @ DXC Technology (_Aug 2022 - July 2023_)**
+-	Experience major public cloud AWS services like EC2, S3, IAM, Load Balancers, Route53, CloudWatch, VPC, Cloud Trail, Lambda function, SNS, SQS, Service Catalog, ACM, etc.
+-	Kafka topic creation and adding ACLS and Creating Cloud Watch Events. Design, implement and maintain all AWS infrastructure and services within a managed service environment.
+-	Design, Deploy, and maintain Enterprise class security, Network, and Systems management applications within an AWS environment. 
+-	Daily Operations providing smooth delivery to the customers. Make sure always SLA is met 100%.
+-	Coordination on customer escalation, process improvements and to make sure that server is up and running 24/7. 
+-	Creating New Instances in Amazon Web Services Management Console and Cloning the Existing Instance.
+-	Troubleshooting the ongoing AWS issues problems within the SLA.
+-	Deploying/Hosting Applications on the servers.
+-	Creating users, roles, and profiles, assigning roles and profiles to users. 
+-	Taking Backups of Amazon Machine Images from running Instances and working with snapshots of the volumes.
+-	Working with Elastic Block Store like attaching EBS volumes to Instances, detaching volumes, and expanding EBS volumes. Restart the ECS container through the lambda function.
+-	Able to update the parameters in the task definition. Good in handling the ECS containers stop and start activities as per requirement. 
+-	Experience in Production Change calls/ Bridge calls and performing the activities as per client requirement
+-	Good experience in Certificate creation and renewal through ACM.
+  
+ - **Environment: Amazon EC2, Amazon ELB, RDS, S3, Route 53, Terraform, AWS IaaS, Kubernetes,  Jenkins, Python, Shell scripting, microservices architecture, Linux, Dynatrace**
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### ITO/Cloud Platforms - Western Union Cloud Delivery - Hybrid Cloud
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- Working in cloud technologies,with overall relevant IT operations delivery experience 
+- Well versed with ITIL terminology for Incident, Change, Problem Management. 
+- Working in creating Cloud based infrastructure as per business requirements and within the Organization 
+framework 
+- Working in creating infrastructure within secure VPC (Virtual Private Cloud) of Cloud 
+- Working in creating and maintaining scripts to provision/de-provision instances required for workloads 
+- Maintain organizational security compliances like passwords, key rotation policies 
+- Experience of handling various Audit and Compliance activities 
+- Create & maintain various types of alerts that monitor systems health and report any issues to Sysops team to 
+resolve and/or escalate to the right teams 
+- Cost savings/Cost Optimization is a vital activity, lifecycle management from start/stop instances to ensuring 
+adherence to regular checks on what all can be optimized 
+- Managing full Cloud Lifecycle, Provisioning,Automation and Security. Migrating existing on-premises 
+applications to cloud 
+- Perform cloud platform level software upgrades Develop scripts for automating Cloud/server tasks 
+- Establish and improve metrics, monitor cloudu tilization of resources using CloudWatch 
+- Perform on premise resources backup by utilizing Cloud Services Deploy automation infrastructure by utilizing Cloud Formation techniques 
+- Optimize resources and work on resource tagging to share the cost and plan for reporting. 
+- Create and manage VPC, Bastion hosts. 
+- Communicate and work with network team to finalize network connection to cloud VPC's. 
+- Monitor availability and performance Monitor effectively, billing and cost optimization strategies. 
+- Manage disaster recovery and create backups 
+- Maintain Data Integrity and access control while using AWS application platform 
+- Manage the Capacity planning for Cloud components by working with Monitoring tools
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Design and Development of an Online Doctor Appointment System
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- Project Detail :- Aim of this project is to create doctor patient handling management system that will help 
+doctors in their work and will also help patients to book doctor appointments and view medical progress. 
+- Front end: HTML, CSS, JavaScript 
+- Back end: PHP, MySQL 
+- Software: XAMPP Serve
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
